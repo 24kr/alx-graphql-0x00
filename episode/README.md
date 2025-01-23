@@ -1,7 +1,3 @@
-
-**README.md for Episodes:**
-
-```markdown
 # Episodes
 
 This project provides information about various episodes, including their id, name, air_date, and episode code.
