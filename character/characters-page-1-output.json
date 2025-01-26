@@ -1,10 +1,26 @@
-{
+    {
   "data": {
-    "character1": {
-      "id": "1",
-      "name": "Rick Sanchez",
-      "status": "Alive",
-      "species": "Human",
-      "type": "",
-      "gender": "Male"
-    }}}
+    "characters": {
+      "results": [
+        {
+          "id": "1",
+          "name": "Rick Sanchez",
+          "status": "Alive",
+          "image": "https://example.com/rick.png"
+        },
+        {
+          "id": "2",
+          "name": "Morty Smith",
+          "status": "Alive",
+          "image": "https://example.com/morty.png"
+        },
+        {
+          "id": "3",
+          "name": "Summer Smith",
+          "status": "Alive",
+          "image": "https://example.com/summer.png"
+        }
+      ]
+    }
+  }
+}

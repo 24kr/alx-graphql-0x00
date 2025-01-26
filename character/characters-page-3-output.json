@@ -1,11 +1,21 @@
-{
+ {
   "data": {
-    "character3": {
-      "id": "3",
-      "name": "Summer Smith",
-      "status": "Alive",
-      "species": "Human",
-      "type": "",
-      "gender": "Female"
+    "characters": {
+      "results": [
+        {
+          "id": "6",
+          "name": "Mr. Poopybutthole",
+          "status": "Alive",
+          "image": "https://example.com/mr_poopybutthole.png"
+        },
+        {
+          "id": "7",
+          "name": "Birdperson",
+          "status": "Alive",
+          "image": "https://example.com/birdperson.png"
+        }
+        
+      ]
     }
-  }}
+  }
+}
